@@ -1,0 +1,35 @@
+Booking id: 0987
+Passenger name: atika
+Number of tickets: 2
+Route: lahore_to_gujranwala
+Timing: 2pm
+Rent: 200
+_______________
+Booking id: laiba234
+Passenger name: laiba
+Number of tickets: 1
+Route: karachi-to-lahore
+Timing: 2:00
+Rent: 500
+_______________
+Booking id: 0986
+Passenger name: atika
+Number of tickets: 4
+Route: lahore_to_karachi
+Timing: 3pm
+Rent: 3000
+_______________
+Booking id: 0987
+Passenger name: atika
+Number of tickets: 4
+Route: lahore_to_karachi
+Timing: 3pm
+Rent: 3000
+_______________
+Booking id: 1234
+Passenger name: atika
+Number of tickets: 3
+Route: lahora_to_karachi
+Timing: 2pm
+Rent: 300
+_______________

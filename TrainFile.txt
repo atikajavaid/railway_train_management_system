@@ -1,0 +1,54 @@
+Train number: 12
+Number of seats: 1
+Route: shadmantobbahiratown
+Timing: 4
+Rent: 2000
+_______________
+Train number: 1
+Number of seats: 100
+Route: lahore_to_gujranwala
+Timing: 2pm
+Rent: 200
+_______________
+Train number: 2
+Number of seats: 200
+Route: lahore_to_karachi
+Timing: 3pm
+Rent: 3000
+_______________
+Train number: 7
+Number of seats: 23
+Route: lahore-to-gujranwala
+Timing: 2:00
+Rent: 500
+_______________
+Train number: 6
+Number of seats: 30
+Route: karachi-to-lahore
+Timing: 2:00
+Rent: 500
+_______________
+Train number: 56
+Number of seats: 1002
+Route: multantolahore
+Timing: 3:00
+Rent: 560
+_______________
+Train number: 123
+Number of seats: 4000
+Route: lhore_to_gujranwala
+Timing: 8pm
+Rent: 400
+_______________
+Train number: 123
+Number of seats: 3000
+Route: lahore_to_karachi
+Timing: 2pm
+Rent: 300
+_______________
+Train number: 1234
+Number of seats: 3000
+Route: lahora_to_karachi
+Timing: 2pm
+Rent: 300
+_______________

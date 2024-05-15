@@ -1,0 +1,18 @@
+Admin name: xyz
+Username: xyz  Password: xyz
+Admin name: malaika
+Username: malaika  Password: 1234
+Admin name: atika
+Username: atika  Password: 0987
+Admin name: shazia
+Username: shazia  Password: 12345
+Admin name: laiba
+Username: laiba  Password: 1582003
+Admin name: mehnoorfayyaz
+Username: mano  Password: 1234
+Admin name: laiba
+Username: laiba1234  Password: 54643
+Admin name: atika
+Username: atika_shahid  Password: 12345
+Admin name: atika
+Username: atikkka  Password: 123456
